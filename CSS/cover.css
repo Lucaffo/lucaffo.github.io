@@ -5,7 +5,7 @@ body, html {
 }
 
 .hero-background {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Images/octocat_scientist_wallpaper.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Images/octocat_scientist_wallpaper.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
